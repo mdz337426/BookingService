@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  },
+  "name": "bookingservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
